@@ -5,9 +5,8 @@
 💻 Estudando HTML, CSS, JavaScript, Python e Git  
 🚀 Buscando minha primeira oportunidade como Dev  
 
-### 🛠 Tecnologias que uso:
+### 🛠 Tecnologias que estou aprendendo:
 - HTML, CSS, JavaScript
-- React (aprendendo)
 - Python
 - Git e GitHub
 
