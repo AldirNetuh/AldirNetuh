@@ -38,3 +38,16 @@ Based in **Recife, Brazil**, my current focus is on **Front-end development** us
 </p>
 
 ---
+### **Connect with me**
+---
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aldirneto/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+  </a>
+  <a href="mailto:aldirneto.dev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="40" />
+  </a>
+</p>
+
+---
